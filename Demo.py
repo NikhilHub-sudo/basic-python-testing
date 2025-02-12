@@ -4,7 +4,6 @@
 # print("Nikhil")
 print("this is new code")
 print("my new file ")
-print("xvvdvvdfvd")
 # import keyword
 # d=keyword.kwlist
 # print(d)
